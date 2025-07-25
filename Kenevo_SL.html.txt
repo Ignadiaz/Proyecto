@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Control Documental</title>
+</head>
+<body>
+    <h2>Control Documental</h2>
+    <p><a href="https://1drv.ms/i/c/7f5b5fdd31ea323c/EXvii9fE8CJMo1E0cb_-sSIBrW2Nc5amIfADp230r149VA" target="_blank">📄 Ver Documento</a></p>
+    <p><a href="https://1drv.ms/f/c/7f5b5fdd31ea323c/EjaNE3weNNVMpsK7ugR4D48B37xc_aYUgTA7KZn7E-MWHQ" target="_blank">📁 Ver Carpeta Completa</a></p>
+</body>
+</html>
